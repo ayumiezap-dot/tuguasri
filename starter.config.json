@@ -1,0 +1,8 @@
+{
+  "id": "portal-tugu-asri",
+  "name": "Portal Tugu Asri",
+  "description": "Pusat informasi perumahan Tugu Asri.",
+  "baseVersion": "0.1.0",
+  "framework": "express+tanstack-start",
+  "database": "postgresql"
+}
